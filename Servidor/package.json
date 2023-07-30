@@ -1,0 +1,19 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "Henrique Mateus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "pg": "^8.10.0",
+    "postgres": "^3.3.4",
+    "sequelize": "^6.31.1"
+  }
+}
