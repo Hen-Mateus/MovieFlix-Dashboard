@@ -1,36 +1,23 @@
-# MovieFlix-Dashboard
+# MovieFlixDashboard
 
-Welcome to the MovieFlix Dashboard repository! This project is a dynamic web application built using Node.js, Express, React, and Sequelize. It allows users to create, manage, and explore movies and their corresponding genres.
+This project was developed within the scope of the course "Internet Applications 2". The MovieFlix Dashboard is a project that highlights my journey as an aspiring web developer. This academic project includes a wide range of functionalities and technologies, both on the frontend and backend. Through it, I've developed skills in Node.js, Express, React, and PostgreSQL to create a comprehensive web application that allows for the management of movies and genres.
 
 ## Features
 
-- Create and manage movies along with their genres.
-- List and display movies and genres with ease.
-- Edit existing movie details and genres.
-- Delete movies and genres from the database.
+• Movie Management: Capability to add, list, edit, and delete movies, with detailed information including posters, titles, synopses, and genres.
 
-## Technology Stack
+• Genre Management: Creation, editing, and removal of movie genres, essential for the effective organization of the movie library.
 
-- **Frontend:** React
-- **Backend:** Node.js, Express
-- **Database:** Sequelize (SQL)
+• Appealing Visualization: Elegant presentation of movies through informative cards, making navigation and interaction more intuitive.
 
-## Getting Started
+• Comprehensive Validation: Implementation of a validation system that ensures each movie contains a title, poster, genre, and synopsis.
 
-To run this application locally, follow these steps:
+## Technology Stack:
 
-1. Clone this repository.
-2. Navigate to the `frontend` directory and run `npm install` to install frontend dependencies.
-3. Similarly, navigate to the `backend` directory and run `npm install` to install backend dependencies.
-4. Set up your database connection details in the `.env` file in the `backend` directory.
-5. Run `npm start` in both the `frontend` and `backend` directories to start the application.
+• Frontend: React.js, Bootstrap
 
-For more detailed instructions, please refer to the [Installation Guide](./docs/INSTALLATION.md).
+• Backend: Node.js, Express.js, Sequelize
 
-## Contributing
+• Database: PostgreSQL
 
-We welcome contributions from the community! If you'd like to contribute to this project, please follow our [Contribution Guidelines](./CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
+Through this experience, I demonstrate my commitment to mastering relevant technologies and providing complete and intuitive solutions for the challenges of the digital world.
