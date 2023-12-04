@@ -4,20 +4,20 @@ This project was developed within the scope of the course "Internet Applications
 
 ## Features
 
-• Movie Management: Capability to add, list, edit, and delete movies, with detailed information including posters, titles, synopses, and genres.
+• **Movie Management:** Capability to add, list, edit, and delete movies, with detailed information including posters, titles, synopses, and genres.
 
-• Genre Management: Creation, editing, and removal of movie genres, essential for the effective organization of the movie library.
+• **Genre Management:** Creation, editing, and removal of movie genres, essential for the effective organization of the movie library.
 
-• Appealing Visualization: Elegant presentation of movies through informative cards, making navigation and interaction more intuitive.
+• **Appealing Visualization:** Elegant presentation of movies through informative cards, making navigation and interaction more intuitive.
 
-• Comprehensive Validation: Implementation of a validation system that ensures each movie contains a title, poster, genre, and synopsis.
+• **Comprehensive Validation:** Implementation of a validation system that ensures each movie contains a title, poster, genre, and synopsis.
 
 ## Technology Stack:
 
 • **Frontend:** React.js, Bootstrap
 
-• Backend: Node.js, Express.js, Sequelize
+• **Backend:** Node.js, Express.js, Sequelize
 
-• Database: PostgreSQL
+• **Database:** PostgreSQL
 
 Through this experience, I demonstrate my commitment to mastering relevant technologies and providing complete and intuitive solutions for the challenges of the digital world.
