@@ -14,7 +14,7 @@ This project was developed within the scope of the course "Internet Applications
 
 ## Technology Stack:
 
-• Frontend: React.js, Bootstrap
+• **Frontend:** React.js, Bootstrap
 
 • Backend: Node.js, Express.js, Sequelize
 
